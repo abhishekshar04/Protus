@@ -1,1 +1,1 @@
-#This is the official doucmentation of the Protus Project.
+This is the official doucmentation of the Protus Project.
