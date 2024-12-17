@@ -238,11 +238,3 @@ export {
     getCurrentUser,
     updateAccountDetails,
 }
-
-
-const loginUser = asyncHandler(async (req,res) => {
-    
-})
-
-
-export {AddUser};
